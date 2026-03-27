@@ -1,8 +1,6 @@
-# JWTMAP - Modular JWT Exploitation Framework
+**JWTMap** is a Python tool designed for security researchers and penetration testers to automate the discovery and exploitation of common and advanced JSON Web Token (JWT) vulnerabilities.
 
-**JWTMAP** is a Python tool designed for security researchers and penetration testers to automate the discovery and exploitation of common and advanced JSON Web Token (JWT) vulnerabilities.
-
-From standard algorithm downgrades to advanced cryptographic modulus recovery, **JWTMAP** provides a modular "arsenal" for testing modern web authentication layers.
+From standard algorithm downgrades to advanced cryptographic modulus recovery, **JWTMap** provides a modular "arsenal" for testing modern web authentication layers.
 
 ---
 
