@@ -69,7 +69,7 @@ JWTMap/
 1.**Clone the Repository:**
 
 ```Bash
-git clone https://github.com/debianmaster17/JWTMap.git && cd /JWTMap
+git clone https://github.com/debianmaster17/JWTMap && cd /JWTMap
 ```
 
 2.**Install Dependencies:**
